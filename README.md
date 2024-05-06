@@ -1,2 +1,2 @@
-# abc.md
+# abc.pq
 abc
